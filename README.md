@@ -6,9 +6,9 @@
     <em><code>A Python-based command-line task management system that helps you organize and track tasks</code></em>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/github/license/yourusername/task-cli?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-    <img src="https://img.shields.io/github/last-commit/yourusername/task-cli?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-    <img src="https://img.shields.io/github/languages/top/yourusername/task-cli?style=default&color=0080ff" alt="repo-top-language">
+    <img src="https://img.shields.io/github/license/p-nelly/task-cli?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+    <img src="https://img.shields.io/github/last-commit/p-nelly/task-cli?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+    <img src="https://img.shields.io/github/languages/top/p-nelly/task-cli?style=default&color=0080ff" alt="repo-top-language">
 </p>
 
 <br>
@@ -154,4 +154,3 @@ The task manager supports the following commands:
 This project is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
 
 ---
-```
