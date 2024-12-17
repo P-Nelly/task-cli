@@ -85,7 +85,7 @@ task-manager/
 
 1. Clone the repository:
 ```sh
-❯ git clone https://github.com/yourusername/task-cli.git
+❯ git clone https://github.com/p-nelly/task-cli.git
 ```
 
 2. Navigate to the project directory:
@@ -130,9 +130,9 @@ The task manager supports the following commands:
 
 ## 🔰 Contributing
 
-- **💬 [Join the Discussions](https://github.com/yourusername/task-cli/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/yourusername/task-cli/issues)**: Submit bugs found or log feature requests.
-- **💡 [Submit Pull Requests](https://github.com/yourusername/task-cli/pulls)**: Review open PRs, and submit your own PRs.
+- **💬 [Join the Discussions](https://github.com/p-nelly/task-cli/discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://github.com/p-nelly/task-cli/issues)**: Submit bugs found or log feature requests.
+- **💡 [Submit Pull Requests](https://github.com/p-nelly/task-cli/pulls)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -155,8 +155,3 @@ This project is licensed under the MIT License. For more details, refer to the [
 
 ---
 ```
-
-This merged version combines:
-1. The modern styling and emojis from readme2.md (lines 1-179)
-2. The detailed content from the original README.md (lines 1-146)
-3. Improved organization and structure while maintaining all the essential information
