@@ -49,7 +49,8 @@ Task-CLI is a command-line interface tool for managing tasks efficiently. Tasks 
 task-manager/
 ├── main.py
 ├── tasks.json
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ### 📂 Project Index
