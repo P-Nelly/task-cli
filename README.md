@@ -77,12 +77,12 @@ task-manager/
 
 ## 🚀 Getting Started
 
-###☑️ Prerequisites
+### Prerequisites
 
 - Python 3.x installed
 - No additional dependencies required - uses Python standard library
 
-### ⚙️ Installation
+### Installation
 
 1. Clone the repository:
 ```sh
