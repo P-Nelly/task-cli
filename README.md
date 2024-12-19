@@ -13,27 +13,27 @@
 
 <br>
 
-## 🔗 Table of Contents
+## Table of Contents
 
-- [📍 Overview](#overview)
-- [👾 Features](#features)
-- [📁 Project Structure](#-project-structure)
-- [🚀 Getting Started](#-getting-started)
-  - [☑️ Prerequisites](#-prerequisites)
-  - [⚙️ Installation](#-installation)
-  - [🤖 Usage](#-usage)
-- [🔰 Contributing](#-contributing)
-- [🎗 License](#-license)
+- [Overview](#overview)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## 📍 Overview
+## Overview
 
 Task-CLI is a command-line interface tool for managing tasks efficiently. Tasks are stored in a JSON file and can be easily managed through various commands. The application provides a simple yet powerful way to track your tasks' status and progress.
 
 ---
 
-## 👾 Features
+## Features
 
 - **Task Creation & Management**: Create, update, and delete tasks
 - **Status Tracking**: Mark tasks as todo, in-progress, or done
@@ -43,7 +43,7 @@ Task-CLI is a command-line interface tool for managing tasks efficiently. Tasks 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 task-manager/
@@ -53,7 +53,7 @@ task-manager/
 └── LICENSE
 ```
 
-### 📂 Project Index
+### Project Index
 <details open>
     <summary><b><code>TASK-CLI/</code></b></summary>
     <details>
@@ -75,7 +75,7 @@ task-manager/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -94,7 +94,7 @@ task-manager/
 ❯ cd task-cli
 ```
 
-### 🤖 Usage
+### Usage
 
 The task manager supports the following commands:
 
@@ -129,11 +129,11 @@ The task manager supports the following commands:
 
 ---
 
-## 🔰 Contributing
+## Contributing
 
-- **💬 [Join the Discussions](https://github.com/p-nelly/task-cli/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/p-nelly/task-cli/issues)**: Submit bugs found or log feature requests.
-- **💡 [Submit Pull Requests](https://github.com/p-nelly/task-cli/pulls)**: Review open PRs, and submit your own PRs.
+- [Join the Discussions](https://github.com/p-nelly/task-cli/discussions): Share your insights, provide feedback, or ask questions.
+- [Report Issues](https://github.com/p-nelly/task-cli/issues): Submit bugs found or log feature requests.
+- [Submit Pull Requests](https://github.com/p-nelly/task-cli/pulls): Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -150,7 +150,7 @@ The task manager supports the following commands:
 
 ---
 
-## 🎗 License
+## License
 
 This project is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
 
